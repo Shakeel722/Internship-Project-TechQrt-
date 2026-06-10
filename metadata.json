@@ -1,0 +1,10 @@
+{
+  "name": "Voice Doctor Appointment Booking",
+  "description": "Conversational AI-powered Doctor Appointment Booking Platform with an interactive Voice Agent simulator and Django REST Backend with PostgreSQL design.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
